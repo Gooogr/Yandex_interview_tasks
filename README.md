@@ -36,7 +36,7 @@ aabbccd |
 
 Ввод	| Вывод
 ---|---
-ab \naabbccd | 4
+ab \nOne aabbccd | 4
 
 
 
